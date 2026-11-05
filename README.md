@@ -104,7 +104,7 @@ secure-deployment-kit/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone git https://github.com/hajimustapha/secure-small-business-deployment-kit.git>
 cd secure-deployment-kit
 ```
 
